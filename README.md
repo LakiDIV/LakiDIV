@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LakiDIV
-- 👀 I’m interested in outer space staff 🚀
+- 👀 SE Student
 - 👾 Rick and Morty is the best show ever 👽
 - 📫 lakshikamadhuranga21@gmail.com
 
