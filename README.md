@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LakiDIV
 - 👀 I’m interested in outer space staff 🚀
-- 🌱 I’m currently learning Java
+- 👾 Rick and Morty is the best show ever 👽
 - 📫 lakshikamadhuranga21@gmail.com
 
 <!---
