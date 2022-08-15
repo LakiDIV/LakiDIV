@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @LakiDIV
 - 👀 SE Student
 - 👾 Rick and Morty is the best show ever 👽
-- 📫 lakshikamadhuranga21@gmail.com
+- 📫 mrlakix@gmail.com
+
+- Who is Laki ?
+- Laki is a boss, he is a hardwoker, he is a leader but he also a student.
+- Forever student of the game.
 
 <!---
 LakiDIV/LakiDIV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
