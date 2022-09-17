@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LakiDIV
 - 👀 SE Student
-- 👾 Rick and Morty is the best show ever 👽
 - 📫 mrlakix@gmail.com
 
 Who is Laki ?  
