@@ -1,4 +1,4 @@
-## 👋 Hello ops, I’m @LakiDIV
+## 👋 Hello World, I’m @LakiDIV
 - 👀 SE Student
 - 📫 mrlakix@gmail.com
 
