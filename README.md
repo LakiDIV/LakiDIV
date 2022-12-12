@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.instagram.com/mr_laki__/"><img align="center" src="https://img.shields.io/badge/INSTAGRAM-C841AC?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/xlaki/"><img align="center" src="https://img.shields.io/badge/LINKEDIN-1666C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/izlaki"> <img align="center" src="https://img.shields.io/badge/FACEBOOK-1666C2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.youtube.com/@xlakidiv"> <img align="center" src="https://img.shields.io/badge/YOUTUBE-ed3833?style=for-the-badge&logo=youtube&logoColor=white"></a> 
+<a href="https://www.youtube.com/@LakiDIV"> <img align="center" src="https://img.shields.io/badge/YOUTUBE-ed3833?style=for-the-badge&logo=youtube&logoColor=white"></a> 
 </div>
 <br />
 
