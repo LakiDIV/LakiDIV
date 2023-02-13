@@ -3,10 +3,6 @@
 - 📫 mrlakix@gmail.com
 
 </br>
-Who is Laki ?  
-
-Laki is a boss, he is a hardwoker, he is a leader but he also a student.  
-Forever student of the game. ✌️
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LakiDIV" alt="LakiDIV" /> </p> <br />
