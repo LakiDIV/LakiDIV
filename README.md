@@ -1,6 +1,6 @@
 ## 👋 Hello World, I’m @LakiDIV
 - 👀 SE Student
-- 📫 mrlakix@gmail.com
+- 📫 lakshikamadhuranga21@gmail.com
 
 </br>
 
