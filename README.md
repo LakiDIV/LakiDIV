@@ -32,5 +32,5 @@ You can click the Preview link to take a look at your changes.
 ![image](https://user-images.githubusercontent.com/51769692/201214383-ac979fec-4e17-4506-a53a-f07ea4df9c7f.png)
 ![image](https://user-images.githubusercontent.com/51769692/201214399-2b1a8b6a-eff0-4e43-b477-86861757d7f7.png) -->
 
-<a href="https://leetcode.com/LakiDIV/"> <img alt="LeetCode" width="200px" src="https://user-images.githubusercontent.com/51769692/201215829-5367859a-9381-4fda-8458-3a6b63c7f823.png" /></a>
+<a href="https://leetcode.com/LakiDIV/"> <img alt="LeetCode" width="100px" src="https://user-images.githubusercontent.com/51769692/201215829-5367859a-9381-4fda-8458-3a6b63c7f823.png" /></a>
 
