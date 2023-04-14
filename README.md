@@ -1,5 +1,6 @@
 # 💫 About Me:
-🧑‍💻 As a software engineering student, I'm constantly coding and building projects.<br>🤝 I'm on the lookout for creative collaborators to work on web design projects with me.<br>🌐 Right now, I'm delving into the world of web development to broaden my skills.<br>🤔 Have a question about software engineering or design? Ask me anything! Plus, fun fact: I'm the boss of my own projects. 💼
+🧑‍💻 As a software engineering student, I'm constantly coding and building projects.<br>🤝 I'm on the lookout for creative collaborators to work on web design projects with me.<br>🌐 Right now, I'm delving into the world of web development to broaden my skills.<br>🤔 Have a question about software engineering or design? Ask me anything!
+<br><br>Plus, fun fact: I'm the boss of my own projects. 💼
 
 
 ## 🌐 Socials:
