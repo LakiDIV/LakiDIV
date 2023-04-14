@@ -1,36 +1,28 @@
-## 👋 Hello World, I’m @LakiDIV
-- 👀 SE Student
-- 📫 lakshikamadhuranga21@gmail.com
-
-</br>
+# 💫 About Me:
+🧑‍💻 As a software engineering student, I'm constantly coding and building projects.<br>🤝 I'm on the lookout for creative collaborators to work on web design projects with me.<br>🌐 Right now, I'm delving into the world of web development to broaden my skills.<br>🤔 Have a question about software engineering or design? Ask me anything! Plus, fun fact: I'm the boss of my own projects. 💼
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LakiDIV" alt="LakiDIV" /> </p> <br />
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/izlaki) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_laki__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xlaki) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrlakix) 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LakiDIV&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LakiDIV&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LakiDIV&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!---
-LakiDIV/LakiDIV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-### CONTACT WITH ME
-<div align="left">
-<a href="https://www.instagram.com/mr_laki__/"><img align="center" src="https://img.shields.io/badge/INSTAGRAM-C841AC?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/xlaki/"><img align="center" src="https://img.shields.io/badge/LINKEDIN-1666C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.facebook.com/izlaki"> <img align="center" src="https://img.shields.io/badge/FACEBOOK-1666C2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.youtube.com/@LakiDIV"> <img align="center" src="https://img.shields.io/badge/YOUTUBE-ed3833?style=for-the-badge&logo=youtube&logoColor=white"></a> 
-</div>
-<br />
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=mrlakix)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### SKILLS
-![image](https://user-images.githubusercontent.com/51769692/201214342-4202eeb4-023a-4b6a-b34d-d00f6fce9a95.png)
-![image](https://user-images.githubusercontent.com/51769692/201214357-d25f232f-0942-4060-b970-e3a5cd23ff25.png)
-![image](https://user-images.githubusercontent.com/51769692/201214417-b55ff25a-dff4-471c-aef2-73b5fa3451e5.png)
-<br/>
-<img alt="LeetCode" height="28px" src="https://pboverflow.programadoresbrasil.com.br/uploads/default/original/2X/d/d9dc004be53fe32b9a9e97208cce02e9d64ffb3b.jpeg" /></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<!-- ![image](https://user-images.githubusercontent.com/51769692/201214367-ec7e69c5-195c-4efa-a429-6c27d371e278.png)
-![image](https://user-images.githubusercontent.com/51769692/201214383-ac979fec-4e17-4506-a53a-f07ea4df9c7f.png)
-![image](https://user-images.githubusercontent.com/51769692/201214399-2b1a8b6a-eff0-4e43-b477-86861757d7f7.png) -->
+---
+[![](https://visitcount.itsvg.in/api?id=LakiDIV&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://leetcode.com/LakiDIV/"> <img alt="LeetCode" width="100px" src="https://user-images.githubusercontent.com/51769692/201215829-5367859a-9381-4fda-8458-3a6b63c7f823.png" /></a>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xlaki) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/artifypixels) 
 
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
