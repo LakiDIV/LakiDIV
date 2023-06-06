@@ -1,6 +1,6 @@
 # 💫 About Me:
 🧑‍💻 As a software engineering student, I'm constantly coding and building projects.<br>🤝 I'm on the lookout for creative collaborators to work on web design projects with me.
-<br><br> 🗒️ https://lakidiv.github.io/cv/
+<br><br>  
 
 I'm currently focused on 'edimension,' a ticket-selling platform, and actively working on it at https://edimension.onrender.com/
 
@@ -25,6 +25,13 @@ I'm currently focused on 'edimension,' a ticket-selling platform, and actively w
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+
+<p align="center">
+  <a href="https://lakidiv.github.io/cv/">
+    <img src="https://img.shields.io/badge/CURRICULUM%20VITAE-%F0%9F%97%92%EF%B8%8F-blue" alt="CURRICULUM VITAE">
+  </a>
+</p>
 
 
 
