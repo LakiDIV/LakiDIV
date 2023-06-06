@@ -33,7 +33,7 @@ I'm currently focused on 'edimension,' a ticket-selling platform, and actively w
 <hr>
 
 <p align="center">
-  <h2 align="center">💰 You can help me by Donating</h2>
+  <h4 align="center">⛽ Help Fuel my Projects,</h4>
 </p>
 
 <p align="center">
@@ -50,5 +50,6 @@ I'm currently focused on 'edimension,' a ticket-selling platform, and actively w
     <img src="data/bottom_header.svg" alt="Lakshika Madhuranga">
   </a>
 </p>
+
 
 
