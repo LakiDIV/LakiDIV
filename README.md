@@ -1,6 +1,10 @@
 # 💫 About Me:
-🧑‍💻 As a software engineering student, I'm constantly coding and building projects.<br>🤝 I'm on the lookout for creative collaborators to work on web design projects with me.<br>🌐 Right now, I'm delving into the world of web development to broaden my skills.<br>🤔 Have a question about software engineering or design? Ask me anything!
+🧑‍💻 As a software engineering student, I'm constantly coding and building projects.<br>🤝 I'm on the lookout for creative collaborators to work on web design projects with me.
 <br><br> 🗒️ https://lakidiv.github.io/cv/
+
+I'm currently focused on 'edimension,' a ticket-selling platform, and actively working on it at https://edimension.onrender.com/
+
+<br> 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/izlaki) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_laki__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xlaki) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrlakix) 
