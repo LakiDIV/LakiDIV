@@ -27,8 +27,16 @@ I'm currently focused on 'edimension,' a ticket-selling platform, and actively w
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
-[![](https://visitcount.itsvg.in/api?id=LakiDIV&icon=3&color=0)](https://visitcount.itsvg.in)
-    
+
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LakiDIV?tab=repositories">
+    <img src="https://visitcount.itsvg.in/api?id=LakiDIV&icon=3&color=0" alt="Visit Count">
+  </a>
+</p>
 
 <hr>
 
