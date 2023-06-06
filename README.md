@@ -26,11 +26,29 @@ I'm currently focused on 'edimension,' a ticket-selling platform, and actively w
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=LakiDIV&icon=3&color=0)](https://visitcount.itsvg.in)
+    
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xlaki) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/artifypixels) 
+<hr>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <h2 align="center">💰 You can help me by Donating</h2>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/xlaki">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee">
+  </a>
+  <a href="https://paypal.me/artifypixels">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LakiDIV">
+    <img src="data/bottom_header.svg" alt="Lakshika Madhuranga">
+  </a>
+</p>
+
+
