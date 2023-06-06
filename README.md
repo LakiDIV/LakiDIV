@@ -19,10 +19,19 @@ I'm currently focused on 'edimension,' a ticket-selling platform, and actively w
 ### 🖥️ My DevSetup
 <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LakiDIV&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LakiDIV&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LakiDIV&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<details>
+  <summary><h4>📊 GitHub Stats:</h4></summary>
+
+| ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=LakiDIV&theme=nord&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LakiDIV&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | 
+|--------------------------|--------------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakiDIV&theme=nord&hide_border=false&include_all_commits=true&count_private=true) | x | 
+
+| Top Languages            |
+|--------------------------|
+|  |
+
+</details>
+
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=mrlakix)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
