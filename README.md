@@ -22,13 +22,15 @@ I'm currently focused on 'edimension,' a ticket-selling platform, and actively w
 <details>
   <summary><h4>📊 GitHub Stats:</h4></summary>
 
-| ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=LakiDIV&theme=nord&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LakiDIV&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | 
-|--------------------------|--------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakiDIV&theme=nord&hide_border=false&include_all_commits=true&count_private=true) | x | 
-
-| Top Languages            |
-|--------------------------|
-|  |
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=LakiDIV&theme=nord&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakiDIV&theme=nord&hide_border=false" alt="GitHub Streak Stats">
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakiDIV&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  </p>
 
 </details>
 
