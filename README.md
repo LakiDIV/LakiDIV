@@ -1,8 +1,14 @@
 # 💫 About Me:
-🧑‍💻 As a software engineering student, I'm constantly coding and building projects.<br>🤝 I'm on the lookout for creative collaborators to work on web design projects with me.
-<br><br>  
+**As a passionate _software engineering student_, I am always immersed in the world of coding**, continuously refining my skills and actively working on diverse projects.
 
-I'm currently focused on 'edimension,' a ticket-selling platform, and actively working on it at https://edimension.onrender.com/
+<sup><strong> Seeking like-minded individuals for collaborative web design projects! Let's join forces and create something extraordinary together. 🤝</strong></sup>
+<br><br>
+
+## Current Focus: 'edimension' - A Ticket-Selling Platform
+
+I'm currently immersed in the development of **'edimension'**, a ticket-selling platform. I'm actively working on it and making exciting progress. You can visit the platform by clicking the link below:
+
+[**Visit 'edimension' Platform**](https://edimension.onrender.com/)
 
 <br> 
 
@@ -33,14 +39,6 @@ I'm currently focused on 'edimension,' a ticket-selling platform, and actively w
   </p>
 
 </details>
-
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=mrlakix)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 
 <p align="center">
   <a href="https://lakidiv.github.io/cv/">
