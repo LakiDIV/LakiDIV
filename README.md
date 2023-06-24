@@ -54,7 +54,7 @@ I'm currently immersed in the development of **'edimension'**, a ticket-selling 
 
 <p align="center">
   <a href="https://github.com/LakiDIV?tab=repositories">
-    <img src="https://visitcount.itsvg.in/api?id=LakiDIV&icon=3&color=0" alt="Visit Count">
+    <img src="https://profile-counter.glitch.me/LakiDIV/count.svg" alt="Visit Count">
   </a>
 </p>
 
