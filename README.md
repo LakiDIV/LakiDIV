@@ -10,12 +10,14 @@
 <br>
 
 
-## Current Focus: 'edimension' - A Ticket-Selling Platform
+### Current Focus: 'edimension' - A Ticket-Selling Platform
+<hr>
 
 I'm currently immersed in the development of **'edimension'**, a ticket-selling platform. I'm actively working on it and making exciting progress. You can visit the platform by clicking the link below:
 
 [**Visit 'edimension' Platform**](https://edimension.onrender.com/)
 
+<hr>
 
 <br> 
 
