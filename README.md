@@ -1,10 +1,14 @@
 # 👤 About Me:
 <sup><strong> Let's learn, build, and create together! </strong></sup>
 
-**As a passionate _software engineering student_, I am always immersed in the world of coding**, continuously refining my skills and actively working on diverse projects.
-
 <sup><strong> Seeking like-minded individuals for collaborative web design projects! Let's join forces and create something extraordinary together. 🤝</strong></sup>
-<br><br>
+
+<br>
+
+**As a passionate self-learner in the field of _software engineering_, I am always immersed in the world of coding**, continuously refining my skills and actively working on diverse projects.
+
+<br>
+
 
 ## Current Focus: 'edimension' - A Ticket-Selling Platform
 
@@ -83,9 +87,10 @@ I'm currently immersed in the development of **'edimension'**, a ticket-selling 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
+<a href="https://music.apple.com/profile/mr_laki"><img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white"/></a>
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 
 #### Also Familiar
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
