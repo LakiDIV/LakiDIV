@@ -1,5 +1,5 @@
 # 👤 About Me:
-<sup><strong> DO - LEARN - THRIVE </strong></sup>
+<sup><strong> Learning . . . </strong></sup>
 
 **As a passionate _software engineering student_, I am always immersed in the world of coding**, continuously refining my skills and actively working on diverse projects.
 
