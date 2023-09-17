@@ -1,14 +1,6 @@
 # 👤 About Me:
 <sup><strong> Let's learn, build, and create together! </strong></sup>
-
-<sup><strong> Seeking like-minded individuals for collaborative web design projects! Let's join forces and create something extraordinary together. 🤝</strong></sup>
-
 <br>
-
-**As a passionate self-learner in the field of _software engineering_, I am always immersed in the world of coding**, continuously refining my skills and actively working on diverse projects.
-
-<br>
-
 
 ### Current Focus: 'edimension' - A Ticket-Selling Platform
 <hr>
