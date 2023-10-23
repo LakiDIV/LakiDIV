@@ -1,16 +1,5 @@
 # 👤 About Me:
-<sup><strong> Let's learn, build, and create together! </strong></sup>
-<br>
-
-### Current Focus: 'edimension' - A Ticket-Selling Platform
-<hr>
-
-I'm currently immersed in the development of **'edimension'**, a ticket-selling platform. I'm actively working on it and making exciting progress. You can visit the platform by clicking the link below:
-
-[**Visit 'edimension' Platform**](https://edimension.onrender.com/)
-
-<hr>
-
+<sup><strong>Let's learn, build, and create together! </strong></sup>
 <br> 
 
 #### Follow me around the web:
@@ -19,7 +8,7 @@ I'm currently immersed in the development of **'edimension'**, a ticket-selling 
 <a href="https://twitter.com/mrlakix" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://facebook.com/izlaki" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://instagram.com/mr_laki__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-
+<br> <br> 
 <!--
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
