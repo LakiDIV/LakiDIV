@@ -90,11 +90,6 @@
   <i>Take a look at my repositories and let's get in touch!</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/LakiDIV?tab=repositories">
-    <img src="https://profile-counter.glitch.me/LakiDIV/count.svg" alt="Visit Count">
-  </a>
-</p>
 
 <hr>
 
