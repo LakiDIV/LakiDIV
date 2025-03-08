@@ -1,4 +1,8 @@
-<sup><strong>web designer / developer</strong></sup>
+<sup><strong>web designer / JS developer</strong></sup>
+
+
+<sup>wanna be better and work with great people.</sup>
+
 <br> 
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -48,15 +52,8 @@
 
 
 #### Hire Me:
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.upwork.com/freelancers/lakshikamadhuranga" target="_blank"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.behance.net/xlaki" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="LinkedIn"></a>
-
-
-#### Follow me around the web:
-<a href="https://linkedin.com/in/xlaki" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://x.com/mrlakix" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
-<a href="https://instagram.com/mr_laki__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-<br> <br> 
 
 
 <p align="center">
